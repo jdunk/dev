@@ -1,1 +1,1 @@
-[wiki](../../wiki) only
+[Wiki](../../wiki) only
