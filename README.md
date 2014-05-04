@@ -1,6 +1,8 @@
 ## [Wiki](../../wiki)
 
-Clean an image for snapshot
+## Snapshots
+
+### Clean/prep a server for image snapshot
 
 * ~/.bash_history
 * ~/.viminfo
