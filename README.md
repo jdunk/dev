@@ -8,6 +8,6 @@
 * ~/.viminfo
 * ~/.ssh
 * /var/log/auth.log
-* /var/log/nginx/*.log
+* /var/log/nginx/*
 * /etc/hostname
 * /etc/hosts
